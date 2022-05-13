@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c5f13bb7f75eefa4a9422560c08026ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - playerStats: {instanceID: 0}
+  - level1: {fileID: 9041891002742518471, guid: 80ace5e0254bcc3459b5eb88aa6ebdb0, type: 3}
+  - level2: {fileID: 5296514547962199327, guid: 97af996c439b85341a9627fe22b17238, type: 3}
+  - level3: {instanceID: 0}
+  - boss: {instanceID: 0}
+  - currentLevel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
